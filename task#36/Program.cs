@@ -29,4 +29,4 @@ int[] array = new int[6];
 FillArray(array);
 System.Console.WriteLine('[' + string.Join(";", array) + ']');
 int summNotEven = notEven(array);
-System.Console.WriteLine("Array has even numbers equal : " + summNotEven);
+System.Console.WriteLine("Summ of all not even elements of array is : " + summNotEven);
