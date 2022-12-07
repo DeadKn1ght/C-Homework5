@@ -1,0 +1,15 @@
+C:\Users\DeadKn1ght\Desktop\c#\C#Homework5\task#38\bin\Debug\net6.0\task#38.exe
+C:\Users\DeadKn1ght\Desktop\c#\C#Homework5\task#38\bin\Debug\net6.0\task#38.deps.json
+C:\Users\DeadKn1ght\Desktop\c#\C#Homework5\task#38\bin\Debug\net6.0\task#38.runtimeconfig.json
+C:\Users\DeadKn1ght\Desktop\c#\C#Homework5\task#38\bin\Debug\net6.0\task#38.dll
+C:\Users\DeadKn1ght\Desktop\c#\C#Homework5\task#38\bin\Debug\net6.0\task#38.pdb
+C:\Users\DeadKn1ght\Desktop\c#\C#Homework5\task#38\obj\Debug\net6.0\task#38.csproj.AssemblyReference.cache
+C:\Users\DeadKn1ght\Desktop\c#\C#Homework5\task#38\obj\Debug\net6.0\task#38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeadKn1ght\Desktop\c#\C#Homework5\task#38\obj\Debug\net6.0\task#38.AssemblyInfoInputs.cache
+C:\Users\DeadKn1ght\Desktop\c#\C#Homework5\task#38\obj\Debug\net6.0\task#38.AssemblyInfo.cs
+C:\Users\DeadKn1ght\Desktop\c#\C#Homework5\task#38\obj\Debug\net6.0\task#38.csproj.CoreCompileInputs.cache
+C:\Users\DeadKn1ght\Desktop\c#\C#Homework5\task#38\obj\Debug\net6.0\task#38.dll
+C:\Users\DeadKn1ght\Desktop\c#\C#Homework5\task#38\obj\Debug\net6.0\refint\task#38.dll
+C:\Users\DeadKn1ght\Desktop\c#\C#Homework5\task#38\obj\Debug\net6.0\task#38.pdb
+C:\Users\DeadKn1ght\Desktop\c#\C#Homework5\task#38\obj\Debug\net6.0\task#38.genruntimeconfig.cache
+C:\Users\DeadKn1ght\Desktop\c#\C#Homework5\task#38\obj\Debug\net6.0\ref\task#38.dll
